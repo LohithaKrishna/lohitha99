@@ -1,0 +1,18 @@
+table{
+    border-collapse:collapse;
+    text-align: center;
+}
+th,td{
+    border:1px solid black;
+    font-size: 30px;
+}
+        th{
+            background-color: black;
+            color:white;
+        }
+        tr:hover{
+            background-color: gray;
+            color:blue;
+        }
+
+        
