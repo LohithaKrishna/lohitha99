@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header-nav{
+    background-color:aqua;
+    
+}
+#header-nav h1{
+    margin: 0;
+    padding: 0;
+    color:blue;
+}
+#header-nav a{
+    color:blue;
+    font-size: 20px;
+}
+#header-nav a:hover{
+    background-color:lightskyblue;
+}
+body{
+    background-color:white;
+}
+
+.navbar-toggle{
+    border-color:white;
+}
+.navbar-toggle span{
+    background-color:white;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#para{
+    background-color:lightgrey;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    
+}
+#myNavbar{
+    text-align: center;
+}
